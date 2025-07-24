@@ -4,4 +4,5 @@
 ### 📅 2025-07-16
 - [Two Sum](./TwoSum.java)
 - [Rotate Array](./RotateArray.java)
+- [Reverse Integer](./reverseInteger.java)
 
